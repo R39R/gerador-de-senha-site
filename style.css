@@ -57,6 +57,7 @@ span{
     font-weight: bold;
     font-size: 20px;
     transition: transform 0.3s;
+    transform: scale(1.03);
 }
 
 .cointainer-password{
