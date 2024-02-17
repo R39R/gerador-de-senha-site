@@ -4,7 +4,7 @@ let valor = document.querySelector("#valor");
 let senha = document.querySelector("#password");
 let hide = document.querySelector("#cointainer-password");
 
-let charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()-_=+[]{}|;:,.?`~0123456789";
+let charset = "ABCÇDEFGHIJKLMNOPQRSTUVWXYZabcçdefghijklmnopqrstuvwxyz!@#$%^&*()-_=+[]{}|;:,.?`~0123456789";
 
 let senha1 = "";
 
